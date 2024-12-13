@@ -1,0 +1,81 @@
+body{
+    background-color:rgb(100,65,23);
+}
+.main{
+text-align:center;
+border:black;
+border-width:thick;
+border-style:double;
+}
+#gun{
+float :left;
+font-size:medium;
+overflow:clip;
+width: 500px;
+border:black;
+border-width:thick;
+border-style:double;
+}
+.img1{ 
+    height:250px;
+    width:250px;
+    padding: 50px, 100px;
+}
+.p{
+    font-size:medium;
+    overflow:clip;
+    width: 1000px;
+}
+#h2{
+    text-align:center;
+}
+.left{
+    text-align:center;
+}
+#heli{
+overflow:clip;
+position: relative;
+float:left;
+width: 500px;
+border:black;
+border-width:thick;
+border-style:double;
+margin-left: 100px;
+}
+.img2{
+    height:500px;
+    width:500px;
+    float:center;
+}
+.Bleft{
+    text-align:left;
+    margin-bottom:100px;
+    float:left;
+    padding-right: 500px;
+}
+#Truck{
+    float:left;
+   margin-top:-90px;
+    border:black;
+    border-width:thick;
+    border-style:double;
+    font-size:medium;
+}
+.p{
+    width: 800px;
+    border:black;
+    border-width:thick;
+    border-style:double;
+}
+.img3{
+    float:right;
+    margin-top:-300px;
+    width:500px;
+    padding-right:100px;
+}
+#A{
+    text-align: center;
+}
+#p2{
+    font-size: small;
+}
